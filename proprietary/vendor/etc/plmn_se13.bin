@@ -331,8 +331,8 @@ IS OnWaves"OnWaves
 
 27603
 ALBtelecom"ATmobile
-
-27801vodafone MT"voda MT
+
+27801epic"epic
 
 27821	go mobile"gomobile
  
@@ -981,11 +981,15 @@ Telenor PK"TELENOR
 Mobitel LK"Mobitel
 
 41302DIALOG"DIALOG
+
+41303Hutch"Hutch
 
 41305
 SRI AIRTEL"Airtel
 
 41308Hutch"Hutch
+
+41309Hutch"Hutch
 
 41401MM 900"MPTGSM
 
@@ -1877,8 +1881,9 @@ TelkomSA-R"Telkom-R
 74404TIGO PY"TIGO
  
 74405PY Personal"Personal
- 
-74602SR.TELESUR.GSM"TeleG
+
+74602
+SR.TELESUR"TELESUR
 
 74603DIGICEL"DIGICEL
 
@@ -1907,4 +1912,4 @@ AeroMobile"AeroMob
 
 90146	Telecom26"T26
 
-90150EchoStar Mobile"EML)Published TS.25 Database 09 November 2020
+90150EchoStar Mobile"EML)Published TS.25 Database 01 February 2021
